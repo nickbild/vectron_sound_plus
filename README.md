@@ -13,6 +13,15 @@ This is the circuit design:
 
 ## Media
 
+![](https://raw.githubusercontent.com/nickbild/vectron_sound_plus/main/media/vectron_audio_top_sm.jpg)
+
+Here, the Vectron Sound Plus is being controlled by the [Vectron 65 Plus computer](https://github.com/nickbild/vectron_65_plus):
+
+![](https://raw.githubusercontent.com/nickbild/vectron_sound_plus/main/media/v65_w_audio_angle_sm.jpg)
+![](https://raw.githubusercontent.com/nickbild/vectron_sound_plus/main/media/v65_w_audio_top_sm.jpg)
+
+You can download an [MP3 here](https://github.com/nickbild/vectron_sound_plus/blob/main/media/vectron_65_audio.mp3?raw=true) of a tune I made with it.
+
 ## Bill of Materials
 
 ## About the Author
