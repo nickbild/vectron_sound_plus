@@ -9,7 +9,6 @@ Vectron Sound Plus uses the General Instrument AY-3-8910 sound generator to prod
 The simple design exposes the AY-3-8910's data bus and control pins so that an external system can control it.  The required crystal oscillator and audio output circuitry are also included so that any speaker can be connected via a TRS cable through the onboard jack.
 
 This is the circuit design:
-
 ![](https://raw.githubusercontent.com/nickbild/vectron_sound_plus/main/media/schematic.svg)
 
 ## Media
