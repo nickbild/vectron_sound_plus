@@ -22,6 +22,8 @@ Here, the Vectron Sound Plus is being controlled by the [Vectron 65 Plus compute
 
 You can download an [MP3 here](https://github.com/nickbild/vectron_sound_plus/blob/main/media/vectron_65_audio.mp3?raw=true) of a tune I made with it.
 
+Vectron Sound Plus can also be controlled via a Raspberry Pi using [my Python library](https://github.com/nickbild/ay-3-8910).
+
 ## Bill of Materials
 
 - 1 x General Instrument AY-3-8910 sound generator
