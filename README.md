@@ -24,6 +24,15 @@ You can download an [MP3 here](https://github.com/nickbild/vectron_sound_plus/bl
 
 ## Bill of Materials
 
+- 1 x General Instrument AY-3-8910 sound generator
+- 1 x 2 MHz crystal oscillator
+- 1 x 220 uF electrolytic capacitor
+- 1 x 47 uF electrolytic capacitor
+- 1 x 1K resistor
+- 2 x 0.1 uF ceramic capacitors
+- 1 x TRS jack connector
+- 1 x PCB ([Kicad design files](https://github.com/nickbild/vectron_sound_plus/tree/main/vectron_sound_kicad))
+
 ## About the Author
 
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
